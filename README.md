@@ -10,3 +10,8 @@ Replace this with your project description.
 
 ## Rules
 See `.antigravityrules` for domain-specific instructions.
+
+
+
+
+<!-- dev-sync: 17ff0166 | ts: 2026-06-05T23:49:00+0500 -->
