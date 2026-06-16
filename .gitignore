@@ -1,0 +1,11 @@
+# Secrets
+*.env
+*.key
+# Build outputs
+dist/
+build/
+# IDE and local files
+.vscode/
+.idea/
+*.suo
+*.user
